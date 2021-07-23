@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+    background-color:green;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-size: cover;
+}
+
+h1{
+    color: goldenrod;
+
+}
+
+button{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    color: green;
+    background-color: goldenrod;
+    font-weight: bold;
+    border-style: none;
+    border-radius: .15rem;
+    width: 150px;
+ /*   padding-left: 0.9rem;
+    padding-right: 0.9rem;*/
+}
